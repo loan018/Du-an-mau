@@ -1,0 +1,26 @@
+ Mô hình Waterfall
+  - Waterfall (tức là "thác nước") là một mô hình phát triển phần mềm tuần tự,
+trong đó mỗi giai đoạn phải hoàn tất trước khi chuyển sang giai đoạn tiếp theo.
+
+Các giai đoạn chính của mô hình Waterfall:
+- Phân tích yêu cầu khách hàng(Requirement Analysis)
+→ Thu thập các yêu cầu của khách hàng, ghi vào tài liệu.
+- Thiết kế hệ thống (System Design)
+→ Vẽ sơ đồ Use Case, ERD, xác định database, layout,...
+- Triển khai (Implementation / Coding)
+→ Bắt đầu lập trình dựa theo bản thiết kế.
+- Kiểm thử (Testing)
+→ Kiểm tra xem hệ thống hoạt động đúng chưa, có lỗi gì không.
+- Triển khai và bảo trì
+→ Triển khai cho người dùng thật, bảo trì khi có lỗi.
+
+Ưu điểm:
+- Dễ hiểu, dễ quản lý.
+- Có kế hoạch rõ ràng.
+- Phù hợp với dự án yêu cầu rõ ràng và ít thay đổi.
+- Kiểm soát tốt chất lượng
+Nhược điểm:
+- Khó thay đổi nếu yêu cầu sai hoặc thiếu sót.
+- Không phù hợp cho dự án lớn, phức tạp hoặc thay đổi liên tục.
+- Mất thời gian khi phát hiện sai sót
+
