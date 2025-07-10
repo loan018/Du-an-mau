@@ -1,0 +1,16 @@
+PolyShop
+
+ -Người dùng:
+  + Đăng ký, đăng nhập tài khoản
+  + Duyệt danh mục sản phẩm
+  + Tìm kiếm sản phẩm năng cao với nhiều bộ lọc 
+  + Xem chi tiết sản phẩm
+  + Bình luận, đánh giá về sản phẩm
+
+ - Quản trị viên:
+  + Quản lý tài khoản
+  + Quản lý danh mục
+  + Quản lý sản phẩm (Thêm/Sửa/Xóa sản phẩm)
+  + Quản lý khuyến mãi, giảm giá
+  + Theo dõi kho hàng(cảnh báo khi hết hàng)
+  + Quản lý bình luận, đánh giá người dùng
